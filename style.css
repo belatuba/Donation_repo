@@ -29,6 +29,7 @@ body{
 }
 .about-4{
     text-align: center;
+    margin: 5vh;
 }
 .about-5{
     display: flex;
